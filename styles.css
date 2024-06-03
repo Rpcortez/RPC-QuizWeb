@@ -18,7 +18,7 @@ body {
   height: 100vh;
   justify-content: center;
   align-items: center;
-  background-color: var(--hue);  /* Apply the hue variable to the background color */
+  background-color: var(--hue); 
 }
 
 body.correct {
